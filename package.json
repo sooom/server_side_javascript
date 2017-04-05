@@ -1,0 +1,19 @@
+{
+  "name": "server_side_javascript",
+  "version": "1.0.0",
+  "description": "server_side_javascript",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sooom/https://github.com/sooom/server_side_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sooom/server_side_javascript/issues"
+  },
+  "homepage": "https://github.com/sooom/server_side_javascriptt#readme"
+}
